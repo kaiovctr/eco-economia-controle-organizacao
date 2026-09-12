@@ -1,0 +1,39 @@
+{
+  "nome": "John Smith",
+  "idade": 22,
+  "profissao": "Engenheiro de Software Júnior",
+
+  "renda": {
+    "salario_bruto": 3200.00,
+    "renda_extra_minima": 500.00,
+    "renda_extra_maxima": 1500.00,
+    "descricao_renda_extra": "Freelances de desenvolvimento de sites e outros serviços na área de tecnologia"
+  },
+
+  "moradia": {
+    "tipo": "aluguel",
+    "valor_mensal": 1000.00
+  },
+
+  "objetivo_principal": "Organizar melhor os gastos e aumentar a economia mensal",
+
+  "metas": [
+    {
+      "meta": "Criar uma reserva de emergência",
+      "valor_objetivo": 10000.00,
+      "valor_atual": 2000.00,
+      "prazo": "2027-12"
+    },
+    {
+      "meta": "Guardar dinheiro para comprar um computador novo",
+      "valor_objetivo": 6000.00,
+      "valor_atual": 500.00,
+      "prazo": "2027-06"
+    }
+  ],
+
+  "preferencias_financeiras": {
+    "valor_desejado_para_economizar_por_mes": 500.00,
+    "prioridade": "Evitar gastos desnecessários sem abrir mão completamente de lazer"
+  }
+}

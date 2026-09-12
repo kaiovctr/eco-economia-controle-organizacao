@@ -1,11 +1,25 @@
 data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+2026-08-01,Salário,receita,3500.00,entrada
+2026-08-03,Freelance - Landing Page,freelance,900.00,entrada
+2026-08-05,Aluguel,moradia,1000.00,saida
+2026-08-06,Conta de Luz,moradia,145.00,saida
+2026-08-06,Internet,moradia,100.00,saida
+2026-08-07,Conta de Água,moradia,70.00,saida
+2026-08-08,Supermercado,alimentacao,380.00,saida
+2026-08-10,Spotify,assinatura,21.90,saida
+2026-08-12,Ferramenta de IA,assinatura,100.00,saida
+2026-08-13,Plano de Celular,comunicacao,80.00,saida
+2026-08-14,Uber,transporte,42.00,saida
+2026-08-15,Delivery,alimentacao,68.00,saida
+2026-08-16,Restaurante,alimentacao,82.00,saida
+2026-08-17,Cinema,lazer,45.00,saida
+2026-08-18,Uber,transporte,37.00,saida
+2026-08-19,Supermercado,alimentacao,165.00,saida
+2026-08-20,Parcela Monitor,tecnologia,200.00,saida
+2026-08-22,Delivery,alimentacao,74.00,saida
+2026-08-23,Roupa,compras,180.00,saida
+2026-08-24,Farmácia,saude,64.00,saida
+2026-08-26,Uber,transporte,51.00,saida
+2026-08-27,Delivery,alimentacao,98.00,saida
+2026-08-28,Supermercado,alimentacao,190.00,saida
+2026-08-30,Jogo para PC,lazer,79.90,saida
