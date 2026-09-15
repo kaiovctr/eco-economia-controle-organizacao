@@ -88,6 +88,11 @@ Instruções detalhadas em [`src/README.md`](./src/README.md).
 
 O agente foi testado manualmente com perguntas reais contra os dados mockados, cobrindo desde análises simples de gastos até tentativas propositais de gerar erro (ex: perguntar sobre um item inexistente, pedir recomendação de investimento específico, ou sair do tema de finanças). Os resultados, incluindo falhas encontradas e como foram corrigidas, estão documentados em [`docs/04-metricas.md`](./docs/04-metricas.md) e no final de [`docs/03-prompts.md`](./docs/03-prompts.md).
 
+![Exemplo de conversa onde o ECO evita associar "carro" a "Uber" incorretamente](./assets/exemplo-conversa-carro.png)
+
+*Figura 1: o ECO reconhece que "carro" não é o mesmo que "Uber" e pede confirmação antes de assumir.*
+
+
 Alguns achados relevantes:
 - O modelo local (Ollama) confunde termos parecidos na base (ex: "roupa" vs. "guarda-roupa") se não houver regra e exemplo explícitos contra isso.
 - Aritmética feita pelo próprio LLM não é confiável — é um ponto de atenção para uma camada de validação futura.
