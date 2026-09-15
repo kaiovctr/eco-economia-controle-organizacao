@@ -29,19 +29,19 @@ Essas regras existem porque, durante os testes, o agente cometeu exatamente os e
 ├── 📄 README.md                       # Este arquivo
 │
 ├── 📁 data/                           # Dados mockados do usuário
-│   ├── perfil_usuario.json            # Perfil, renda, metas e preferências
-│   ├── transacoes.csv                 # Histórico de transações
-│   └── historico_interacoes.csv       # Histórico de atendimentos anteriores
+│   ├── 📄 perfil_usuario.json         # Perfil, renda, metas e preferências
+│   ├── 📄 transacoes.csv              # Histórico de transações
+│   └── 📄 historico_interacoes.csv    # Histórico de atendimentos anteriores
 │
 ├── 📁 docs/                           # Documentação do agente
-│   ├── 01-documentacao-agente.md      # Caso de uso, persona, arquitetura e segurança
-│   ├── 02-base-conhecimento.md        # Estratégia de dados e integração
-│   ├── 03-prompts.md                  # System prompt, few-shots e edge cases
-│   ├── 04-metricas.md                 # Cenários de teste e resultados
+│   ├── 📄 01-documentacao-agente.md   # Caso de uso, persona, arquitetura e segurança
+│   ├── 📄 02-base-conhecimento.md     # Estratégia de dados e integração
+│   ├── 📄 03-prompts.md               # System prompt, few-shots e edge cases
+│   └── 📄 04-metricas.md              # Cenários de teste e resultados
 │
 └── 📁 src/                            # Código da aplicação
-    ├── app.py                         # Interface Streamlit + integração com Ollama
-    └── README.md                      # Passo a passo para rodar localmente
+    ├── 📄 app.py                      # Interface Streamlit + integração com Ollama
+    └── 📄 README.md                   # Passo a passo para rodar localmente
 ```
 
 ---
